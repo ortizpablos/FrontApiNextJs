@@ -27,13 +27,14 @@ async function getCategoryById(id)  {
      return (
          <>
           
-          <br />
-          <hr />
-          <br />
+          <main className="h-screen">
+          
           <h1>Informacion detallada de la Categoria actual</h1>
            <h1>Identificador: {id}</h1>  
            <h2>Nombre: {category.name}</h2>
            <h2>Imagen: {category.image}</h2>
+           <img src={category.image} alt="imagen" />
+          </main>
          </>
   
     );
