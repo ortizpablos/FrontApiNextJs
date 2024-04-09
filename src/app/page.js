@@ -67,7 +67,7 @@ export default function Home() {
                     <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-4">
                       
                       <div class="sm:flex sm:items-center sm:justify-between">
-                          <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="https://flowbite.com/" class="hover:underline">Sena</a>. Desarrollo de Software.
+                          <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="https://flowbite.com/" class="hover:underline">Sena</a>. Instructor: Pablo Ortiz.
                           </span>
                           <div class="flex mt-4 sm:justify-center sm:mt-0">
                               <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
